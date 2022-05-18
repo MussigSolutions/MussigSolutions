@@ -5,7 +5,7 @@ Hey there 👋
 
 I’m Ricky, at the moment I am focused on facing challenges to help me improve and expand my stack. I've made it my mission for 2022 to up-skill to become a fulltime front end developer! Part of this process has led me to starting my own business, focused on helping small businesses throughout Australia improve their digital footprint!
 
-Want to know more about my business? [Check out our website.](https://www.mussigsolutions.com/)
+Want to know more about my business? [Check out my website.](https://www.mussigsolutions.com/)
 
 ## &#x1f4c8; GitHub Stats
 
